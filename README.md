@@ -10,7 +10,7 @@
 
 
 ## 联系方式
-- Email：mizhd@gmail.com
+- Email：<mizhd@gmail.com>
 - 手机：17098045671
 - 微博：[@老爱吃柚子](http://weibo.com/208882431/)
 - 个人网站: http://www.qdcode.com (```荒废已久 ```)
