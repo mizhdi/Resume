@@ -22,7 +22,7 @@
 - 简单的node+express+mongodb
 - AngularJS的hello world
 - 开发: Sublime Text、Git、Grunt、Bower、Yeoman
-- 总结：CSS扎实，善用各种工具快速开发，熟悉原生JS，NODE和Angular努力学中...
+- 总结：CSS扎实，善用各种工具快速开发，熟悉原生JS，NODE和Angular努力学习中...
 
 ## 项目经验
 公司：Hangzhou Kuozhi Network Technology Co, Ltd.（2014年6-2014年11月）
