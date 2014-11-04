@@ -28,13 +28,13 @@
 公司：Hangzhou Kuozhi Network Technology Co, Ltd.（2014年6-2014年11月）
 
 ### 维护公司产品和前端开发
-主要负责公司[Edusoho官网](http://www.edusoho.com/）建设，Edusoh通用版，K12版，[云平台](http://open.edusoho.com/)，基于Edusoho开源软件的高自定义主题[雅致主题](http://demo.edusoho.com/)的前端开发及维护工作。
+主要负责公司[Edusoho官网](http://www.edusoho.com/）建设，Edusoh通用版，K12版
+，[云平台](http://open.edusoho.com/)，基于Edusoho开源软件的高自定义主题[雅致主题](http://demo.edusoho.com/)的前端开发及维护工作。
 
 ### 第三方项目
-宜信旗下的网校：[信翼V课堂](http://vooc.com.cn/)
-
-[E3650:电商成长互动平台](http://e3650.com/)
-...
+- 宜信旗下的网校：[信翼V课堂](http://vooc.com.cn/)
+- [E3650:电商成长互动平台](http://www.e3650.com/)
+- ...
 
 ### 个人项目
 基于RequireJS, Grunt, SASS, Responsive实现的Wordpress开源主题[PITS](https://github.com/mizhdi/PITS)
