@@ -1,6 +1,6 @@
 >Looking for new opportunities, 寻找新的工作机会...
 
-================================================
+---
 
 ## 个人信息
 - 宓(Mì)正迪 / 男 / 1990
@@ -8,6 +8,7 @@
 - 期望： 杭州 / 前端工程师 / 8k+
 - 工作年限： 2年
 
+---
 
 ## 联系方式
 - Email：<mizhdi@gmail.com>
@@ -16,6 +17,8 @@
 - ~~个人网站: http://www.qdcode.com (```荒废已久 ```)~~
 - ~~Github: http://github.com/mizhdi (```入行未久，能力有限 ```)~~
 
+---
+
 ## 技术能力
 - HTML5/CSS3，Responsive, Bootstrap, Sass&Compass,  关于CSS能力，[请查看](https://www.evernote.com/shard/s63/sh/8ea9d850-eec4-41f5-8ad6-d388b0816053/76b2227e8777203f4840dfc0ca1eec43)
 - JavaScrip，jQuery, RequireJS，SeaJS
@@ -23,6 +26,8 @@
 - AngularJS的hello world
 - 开发: Sublime Text、Git、Grunt、Bower、Yeoman
 - 总结：CSS扎实，善用各种工具快速开发，熟悉原生JS，Node和Angular努力学习中...
+
+---
 
 ## 项目经验
 公司：Hangzhou Kuozhi Network Technology Co, Ltd.（2014年6-2014年11月）
@@ -39,7 +44,7 @@
 ### 个人项目
 基于RequireJS, Grunt, SASS, Responsive实现的Wordpress开源主题[PITS](https://github.com/mizhdi/PITS)
 
-================================================
+---
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
