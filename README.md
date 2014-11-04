@@ -3,7 +3,7 @@
 ================================================
 
 ## 个人信息
-- 宓正迪(Mì) / 男 / 1990
+- 宓(Mì)正迪 / 男 / 1990
 - 本科
 - 期望： 杭州 / 前端工程师 / 8k+
 - 工作年限： 2年
@@ -26,19 +26,19 @@
 
 ## 项目经验
 公司：Hangzhou Kuozhi Network Technology Co, Ltd.（2014年6-2014年11月）
-### 
-基于Edusoho开源软件的高自定义主题：雅致主题(链接)
-2014 年 7 月
-宜信旗下的网校：信翼V课堂(http://vooc.com.cn/)
-2014 年 8 月
-Edusoso产品官网建设(http://www.edusoho.com/)
-2014 年 9 月
-E3650:电商成长互动平台(http://e3650.com/)
-2014 年 10 月
-Wordpress主题PITS(https://github.com/mizhdi/PITS)
-2014
-RequireJS, Grunt, SASS, Responsive Design
+
+### 维护公司产品和前端开发
+主要负责公司[Edusoho官网](http://www.edusoho.com/）建设、[云平台](http://open.edusoho.com/)、Edusoh通用版、K12版、基于Edusoho开源软件的高自定义主题[雅致主题](http://demo.edusoho.com/)的前端开发及维护工作。
+
+### 第三方项目
+宜信旗下的网校：[信翼V课堂](http://vooc.com.cn/)
+[E3650:电商成长互动平台](http://e3650.com/)
+...
+
+### 个人项目
+基于RequireJS, Grunt, SASS, Responsive Design实现的Wordpress开源主题[PITS](https://github.com/mizhdi/PITS)
 
 ================================================
+
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
