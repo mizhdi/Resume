@@ -14,7 +14,7 @@
 - 手机：17098045671
 - 微博：[@老爱吃柚子](http://weibo.com/208882431/)
 - 个人网站: http://www.qdcode.com (```荒废已久 ```)
-- Github: http://github.com/mizhdi (```入行未久，能力有限 ```)
+- ~~Github: http://github.com/mizhdi (```入行未久，能力有限 ```)~~
 
 ## 技术能力
 - HTML5/CSS3，Responsive, Bootstrap, Sass&Compass,  关于CSS能力，[请查看](https://www.evernote.com/shard/s63/sh/8ea9d850-eec4-41f5-8ad6-d388b0816053/76b2227e8777203f4840dfc0ca1eec43)
@@ -28,7 +28,7 @@
 公司：Hangzhou Kuozhi Network Technology Co, Ltd.（2014年6-2014年11月）
 
 ### 维护公司产品和前端开发
-主要负责公司[Edusoho官网](http://www.edusoho.com/）建设，Edusoh通用版，K12版
+主要负责公司[Edusoho官网](http://www.edusoho.com/)建设，Edusoh通用版，K12版
 ，[云平台](http://open.edusoho.com/)，基于Edusoho开源软件的高自定义主题[雅致主题](http://demo.edusoho.com/)的前端开发及维护工作。
 
 ### 第三方项目
