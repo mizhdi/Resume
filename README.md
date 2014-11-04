@@ -1,6 +1,5 @@
 >Looking for new opportunities, 寻找新的工作机会...
 
----
 
 ## 个人信息
 - 宓(Mì)正迪 / 男 / 1990
