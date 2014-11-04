@@ -13,7 +13,7 @@
 - Email：<mizhdi@gmail.com>
 - 手机：17098045671
 - 微博：[@老爱吃柚子](http://weibo.com/208882431/)
-- 个人网站: http://www.qdcode.com (```荒废已久 ```)
+- ~~个人网站: http://www.qdcode.com (```荒废已久 ```)~~
 - ~~Github: http://github.com/mizhdi (```入行未久，能力有限 ```)~~
 
 ## 技术能力
