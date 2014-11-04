@@ -1,4 +1,4 @@
->寻找新的工作机会...
+>Looking for new opportunities, 寻找新的工作机会...
 
 ===============================
 
@@ -27,3 +27,14 @@
 ## 项目经验
 公司：Hangzhou Kuozhi Network Technology Co, Ltd.（2014年6-2014年11月）
 ### 
+基于Edusoho开源软件的高自定义主题：雅致主题(链接)
+2014 年 7 月
+宜信旗下的网校：信翼V课堂(http://vooc.com.cn/)
+2014 年 8 月
+Edusoso产品官网建设(http://www.edusoho.com/)
+2014 年 9 月
+E3650:电商成长互动平台(http://e3650.com/)
+2014 年 10 月
+Wordpress主题PITS(https://github.com/mizhdi/PITS)
+2014
+RequireJS, Grunt, SASS, Responsive Design
