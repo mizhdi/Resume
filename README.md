@@ -25,7 +25,7 @@
 ---
 
 ## 项目经验（最近）
-- 公司：[杭州大搜车汽车服务有限公司](http://wwww.souche.com)(20151117-至今)
+- 公司：[杭州大搜车汽车服务有限公司](http://wwww.souche.com)(20141117-至今)
 - [大风车app](http://fir.im/dfc)
 - PC端客户管理系统（Angular）
 
